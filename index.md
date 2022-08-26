@@ -1,3 +1,11 @@
+# Mahika Parakh's first CS193 Homework
+
+## Mahika's Favorite Things About CS193
+
+- There is no judgement or high expectation regarding the technical (non-coding related) skills we have coming into this class.
+- CS193 provides the opportunity to learn some important skills, like learning how to do homework on GitHub, that can come handy in other classes!
+- The instructors all seem experienced, but friendly and cool!
+
 ## Welcome to GitHub Pages
 
 **_GitHub is Cool!_**
@@ -5,26 +13,6 @@
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### 1. Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-### 2. Headers
-
-# Header 1
-## Header 2
-### Header 3
-
-### 3. Other Formatting
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
